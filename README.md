@@ -1,2 +1,2 @@
 ﻿# rock-paper-scissors game
- # Computer vs Player
+ This game is between the Computer and a Player
